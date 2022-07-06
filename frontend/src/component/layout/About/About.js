@@ -21,18 +21,18 @@ const About = () => {
               src="ecom.png"
               alt="Founder"
             />
-            <Typography>SARGCOM</Typography>
+            <Typography>ECOMM</Typography>
             <Button onClick={visitInstagram} color="primary">
               Mail me
             </Button>
             <span>
-              This is an Ecommerce wesbite made by @SATYAM TOMAR, @AYUSH MINA and @RAMESH VISHNOI . Our purpose is to win squareboat hackathon.
+              This is an Ecommerce wesbite made by Giri Sai .
             </span>
           </div>
           <div className="aboutSectionContainer2">
             <Typography component="h2">Our Brands</Typography>
             <a
-              href="https://github.com/ayushmina/ECOMMERCE.2"
+              href="https://github.com/codergiri12/ecommerce"
               target="blank"
             >
               <GitHubIcon className="youtubeSvgIcon" />
